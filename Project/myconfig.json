@@ -1,0 +1,8 @@
+{
+    "params": {
+        "username": "root",
+        "password": "Rohit1*3#",
+        "database":"miniproject",
+        "host": "localhost"
+    }
+}
